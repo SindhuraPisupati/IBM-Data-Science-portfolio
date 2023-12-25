@@ -1,10 +1,13 @@
 # IBM-DATA-SCIENCE-PORTFOLIO
 
-Data science and machine learning skills continue to be in highest demand across industries, and the need for data practitioners is booming. Upon completing this Professional Certificate program, you will be armed with the skills and experience you need to start your career in data science and machine learning. Through hands-on assignments and high-quality instruction, you will build a portfolio using real data science tools and real-world problems and data sets. The curriculum will cover a wide range of data science topics including: open source tools and libraries, methodologies, Python, databases, SQL, data visualization, data analysis, and machine learning. There is no requirement for prior computer science or programming knowledge in order to take this program.
-
-Anyone with some computer skills and a passion for self-learning can succeed as we begin small and build up to more complex problems and topics.
-
-With the tremendous need for data science and data analyst professionals in the market today, this program will jumpstart your path in data science and prepare you with a portfolio of data science deliverables to give you the confidence to take the plunge and start your data science career.
+**What is Data Science?**
+Data science continues to evolve as one of the most promising and in-demand career paths for skilled professionals. Today, successful data professionals understand they must advance past the traditional skills of analyzing large amounts of data, data mining, and programming skills. To uncover useful intelligence for their organizations, data scientists must master the full spectrum of the data science life cycle and possess a level of flexibility and understanding to maximize returns at each phase of the process.
+               **stages of Data Science life cycle**
+**Capture** (data acquisition, data entry, signal reception, data extraction); 
+**Maintain** (data warehousing, data cleansing, data staging, data processing, data architecture);
+**Process** (data mining, clustering/classification, data modeling, data summarization); 
+**Analyze** (exploratory/confirmatory, predictive analysis, regression, text mining, qualitative analysis); 
+**Communicate** (data reporting, data visualization, business intelligence, decision making).
 
 ***what i have learned***
 
