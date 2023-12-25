@@ -1,19 +1,20 @@
 # IBM-DATA-SCIENCE-PORTFOLIO
 
-**What is Data Science?**
+****What is Data Science?****
+
 Data science continues to evolve as one of the most promising and in-demand career paths for skilled professionals. Today, successful data professionals understand they must advance past the traditional skills of analyzing large amounts of data, data mining, and programming skills. To uncover useful intelligence for their organizations, data scientists must master the full spectrum of the data science life cycle and possess a level of flexibility and understanding to maximize returns at each phase of the process.
 
-_**stages of Data Science life cycle**_
+**_**Stages of Data Science life cycle**_**
 
-**Capture** (data acquisition, data entry, signal reception, data extraction)
+**1.Capture** (data acquisition, data entry, signal reception, data extraction)
 
-**Maintain** (data warehousing, data cleansing, data staging, data processing, data architecture)
+**2.Maintain** (data warehousing, data cleansing, data staging, data processing, data architecture)
 
-**Process** (data mining, clustering/classification, data modeling, data summarization)
+**3.Process** (data mining, clustering/classification, data modeling, data summarization)
 
-**Analyze** (exploratory/confirmatory, predictive analysis, regression, text mining, qualitative analysis) 
+**4.Analyze** (exploratory/confirmatory, predictive analysis, regression, text mining, qualitative analysis) 
 
-**Communicate** (data reporting, data visualization, business intelligence, decision making).
+**5.Communicate** (data reporting, data visualization, business intelligence, decision making).
 
 ***what i have learned***
 
