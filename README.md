@@ -36,23 +36,24 @@ Data science is the study of data to extract meaningful insights for business. I
 8.Understand and apply various supervised and unsupervised Machine Learning models and algorithms to address real world challenges using Python.
 
 **Courses in IBM Data Science Certification**
-What is Data Science? 
 
-Tools for Data Science 
+1.Introduction to Data Science 
 
-Data Science Methodology 
+2.Data Science Tools
 
-Python for Data Science  
+3.The Data Science Method
 
-Python Project for Data Science 
+4.Python Basics for Data Science  
 
-SQL for Data Science with Python 
+5.Python for Data Science Project
 
-Data Analysis with Python 
+6.SQL for Data Science 
 
-Visualizing Data with Python 
+7.Analyzing Data with Python 
 
-Machine Learning with Python 
+8.Visualizing Data with Python 
 
-Machine Learning and Data Science Capstone project
+9.Machine Learning with Python:A Practical Introduction
+
+10.Machine Learning and Data Science Capstone project
 
